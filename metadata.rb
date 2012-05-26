@@ -2,7 +2,7 @@ maintainer        "Hector Castro"
 maintainer_email  "hectcastro@gmail.com"
 license           "Apache 2.0"
 description       "Installs and configures SSH."
-version           "0.0.1"
+version           "0.0.2"
 recipe            "sshd", "Installs and configures SSH"
 
 %w{ ubuntu }.each do |os|
