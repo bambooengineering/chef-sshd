@@ -1,7 +1,6 @@
 require "minitest/autorun"
-require "socket"
 
-describe_recipe "memcached::default" do
+describe_recipe "sshd::default" do
   include MiniTest::Chef::Assertions
   include MiniTest::Chef::Context
   include MiniTest::Chef::Resources
