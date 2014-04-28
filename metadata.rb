@@ -1,4 +1,4 @@
-name              "chef-sshd"
+name              "sshd"
 maintainer        "Hector Castro"
 maintainer_email  "hectcastro@gmail.com"
 license           "Apache 2.0"
